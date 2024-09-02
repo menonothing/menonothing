@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @menonothing
 - 👀 I’m interested in just about everything, feel free to reach out
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me idk
+- 🌱 I’m currently learning Python and C
+- 💞️ I’m looking to collaborate on simple projects rn
+- 📫 How to reach me discord- eddieNOCTUS#0872
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ?
 
